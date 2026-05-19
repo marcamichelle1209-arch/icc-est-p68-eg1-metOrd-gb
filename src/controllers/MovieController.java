@@ -20,8 +20,9 @@ public class MovieController {
                     minimo = i;
                    
                 }
-                if (minimo! =1){
+                if (minimo!=1){
                     
+
                 }
 
 
